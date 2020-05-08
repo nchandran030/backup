@@ -1,0 +1,32 @@
+473968664
+
+vpn 
+Quest1234n
+
+
+software
+learning hub
+training ge
+add indian bank
+
+
+
+https://www.becil.com/
+https://www.tutlane.com/tutorial/nodejs/nodejs-child-process
+
+https://github.com/nchandran030/angular-terminal
+
+angular terminal
+	material form
+	material alerts
+	
+memory details
+	side navbar with angular and show memory details and disk drive details in two seprate tabs
+	
+npmrc filemanipulation
+	material table
+	material form and open the form in alert box
+	material loader
+	
+single spa internationalization
+	

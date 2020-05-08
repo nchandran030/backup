@@ -1,0 +1,5 @@
+git clone url
+git status
+gid add .
+git commit -m "comment here"
+git push -f origin master
