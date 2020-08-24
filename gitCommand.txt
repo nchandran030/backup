@@ -3,3 +3,6 @@ git status
 gid add .
 git commit -m "comment here"
 git push -f origin master
+
+git tag -a v1.0 -m "tag for release ver 1.1"
+git push origin v1.0

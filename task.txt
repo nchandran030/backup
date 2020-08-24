@@ -1,32 +1,70 @@
-473968664
+https://github.com/single-spa/single-spa/issues/562
+https://meet.lync.com/gecompany/manoj.nair/530J11Q7
 
-vpn 
+=====================================================
+Nitheesh.Chandran@ge.com
+
+503188392@ge.com
 Quest1234n
 
+503188392
+Quest1234n
 
-software
-learning hub
-training ge
-add indian bank
+1030425
+============================================
+unit testing for ngx-transalte service
+https://github.com/ngx-translate/example
+https://stackoverflow.com/questions/49055721/navbar-drop-down-menu-not-working-with-angular-and-bootstrap-4
+https://blog.logrocket.com/angular-unit-testing/
+https://stackoverflow.com/questions/45084568/unit-test-success-and-error-observable-response-in-component-for-angular-2
+https://www.arroyolabs.com/2017/04/angular-2-unit-test-mocks-stubs/
 
+============================================================================
+sinonjs
+https://blog.logrocket.com/the-best-unit-testing-frameworks-for-node-js/
+https://dev.to/zaklaughton/the-only-3-steps-you-need-to-mock-an-api-call-in-jest-39mb
+============================
+https://mytech.ge.com/
 
+===========webex===============
+nitheesh.chandran@quest-global.com
+https://teams.webex.com/signin
 
-https://www.becil.com/
-https://www.tutlane.com/tutorial/nodejs/nodejs-child-process
+=============SingleSpa Pending=============
+configuration application theming and internalization
+test cases in all backend application
+socket completed in hardware needs to do in all application
+=======================================
+https://10.197.0.24/svn/QuEST_internal_tool/trunk/Work%20Products/GDC%20Confidential/Documents
 
-https://github.com/nchandran030/angular-terminal
+SR321630
 
-angular terminal
-	material form
-	material alerts
-	
-memory details
-	side navbar with angular and show memory details and disk drive details in two seprate tabs
-	
-npmrc filemanipulation
-	material table
-	material form and open the form in alert box
-	material loader
-	
-single spa internationalization
-	
+questgedctvm\1030425
+Quest1234ni
+
+https://mytech.ge.com/products-and-services/software/detail?id=3927&type=Windows&source=svn 
+
+============================
+TEST MACHINE_i7_4
+Nn123456
+
+=================
+3 elastic search and spring boot and angular
+fork and grisp in logstash
+
+==============================
+Baxter
+Username: Nitheesh_C
+password: Quest1234ni
+
+==============================
+http://localhost:9200/_cat/indices
+http://localhost:9200/_cat/indices?h=index&format=json
+
+https://www.elastic.co/downloads/past-releases/kibana-7-2-0
+
+https://www.elastic.co/blog/developing-new-kibana-visualizations
+https://www.elastic.co/elasticon/conf/2016/sf/how-to-build-your-own-kibana-plugins
+
+https://www.npmjs.com/package/generator-kibana-plugin
+https://github.com/elastic/kibana/tree/7.2/test/plugin_functional/plugins/kbn_tp_custom_visualizations
