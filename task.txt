@@ -68,3 +68,6 @@ https://www.elastic.co/elasticon/conf/2016/sf/how-to-build-your-own-kibana-plugi
 
 https://www.npmjs.com/package/generator-kibana-plugin
 https://github.com/elastic/kibana/tree/7.2/test/plugin_functional/plugins/kbn_tp_custom_visualizations
+
+
+rundll32 sysdm.cpl,EditEnvironmentVariables
