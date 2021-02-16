@@ -23,6 +23,6 @@
     "path": "^0.12.7",
     "promise": "^8.1.0",
     "simple-node-logger": "^18.12.24",
-    "systeminformation": "^4.23.1"
+    "systeminformation": "^5.3.1"
   }
 }
